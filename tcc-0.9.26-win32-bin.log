@@ -74,8 +74,8 @@ i=6, tab[i]=6,tabsize=15 x=7
 i=7, tab[i]=7,tabsize=15 x=7 
 
 > problem_9
-1
-2.64202e-308
+3
+3.61
 
 > problem_10
--3
+1
