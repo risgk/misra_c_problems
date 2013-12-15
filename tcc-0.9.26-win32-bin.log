@@ -50,16 +50,19 @@ a[p-a] = 4	a[p-a] = 3	a[p-a] = 2	a[p-a] = 1	a[p-a] = 0
 > problem_6
 y = 0	x = 0	
 
+> problem_6_2
+x = 1	y = 1	
+
 > problem_7
-parttab[i].part_number = 38	
-
+parttab[i].part_number = 46	
 parttab[i].description = left-handed widget	
-parttab[i].part_number = 39	
 
+parttab[i].part_number = 47	
 parttab[i].description = right-handed widget	
-parttab[i].part_number = 125	
 
+parttab[i].part_number = 125	
 parttab[i].description = frammis	
+
 
 > problem_8
 i=1, tab[i]=1,tabsize=15 x=7 

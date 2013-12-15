@@ -1,3 +1,5 @@
+#include <stdio.h>
+
 #define PRINT(format,x) printf(#x " = %" #format "\n",x)
 
 int integer = 5;
