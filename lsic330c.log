@@ -1,0 +1,53 @@
+
+> problem_1
+11
+1
+0
+1
+
+> problem_2
+
+> problem_3
+x = 5	
+x = 5	
+x = 1	
+x = 7	z = 0	
+x = 3	z = 0	
+x = 3	z = 1	
+
+> problem_4
+i = 1	
+i = 2	
+i = 3	
+i = 3	
+i = 1	
+
+> problem_5
+a[i] = 0	a[i] = 1	a[i] = 2	a[i] = 3	a[i] = 4	
+*p = 0	*p = 1	*p = 2	*p = 3	*p = 4	
+
+p[i] = 1	p[i] = 2	p[i] = 3	p[i] = 4	p[i] = 23393	
+*(p+1) = 1	*(p+1) = 2	*(p+1) = 3	
+
+*p = 4	*p = 3	*p = 2	*p = 1	*p = 0	
+p[-i] = 4	p[-i] = 3	p[-i] = 2	p[-i] = 1	p[-i] = 0	
+a[p-a] = 4	a[p-a] = 3	a[p-a] = 2	a[p-a] = 1	a[p-a] = 0	
+
+> problem_6
+y = 0	x = 0	
+
+> problem_8
+i=1, tab[i]=1,tabsize=15 x=7 
+i=2, tab[i]=2,tabsize=15 x=7 
+i=3, tab[i]=3,tabsize=15 x=7 
+i=4, tab[i]=4,tabsize=15 x=7 
+i=5, tab[i]=5,tabsize=15 x=7 
+i=6, tab[i]=6,tabsize=15 x=7 
+i=7, tab[i]=7,tabsize=15 x=7 
+
+> problem_9
+1
+2.74098e-205
+
+> problem_10
+-3
